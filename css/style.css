@@ -158,3 +158,10 @@ box-sizing: content-box;
         padding-bottom: 20vh;
       }
   } 
+  @media screen and (min-width: 440px) {
+    #form-form {
+      height: 50vh;
+      width: 50vh;
+     }
+  }
+  
